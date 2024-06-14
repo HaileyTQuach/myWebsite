@@ -135,10 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi there! I'm Hailey, and I'm really interested in finding ways to make AI work for
+              the greater good. Growing up, I used to spend Sunday mornings watching Doraemon, which
+              sparked my interest in artificial intelligence. Following in Doraemon's footsteps, I
+              aim to create AI apps that ease people's suffering, much like Nobita's.
             </p>
 
             <p>

@@ -60,16 +60,15 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Hailey Quach.</h2>;
+  const three = <h3 className="big-heading">I use AI for social good.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I’m a 4th year computer science student, passionate about using AI and machine learning for
+        social good. Currently, I’m doing a research internship in computational pathology at{' '}
+        <a href="https://atlasanalyticslab.ai/" target="_blank" rel="noreferrer">
+          Atlas Analytics Lab
         </a>
         .
       </p>

@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/myWebsite',
   siteMetadata: {
     title: 'Hailey Quach',
     description:
@@ -20,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Hailey Quach',
+        short_name: 'Hailey Quach',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://haileyq.com/sitemap-index.xml
+Host: https://haileyq.com
